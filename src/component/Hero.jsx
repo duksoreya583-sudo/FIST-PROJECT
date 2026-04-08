@@ -7,7 +7,7 @@ const Hero = () => {
         <div className="col-10 col-sm-8 col-lg-6">
           {/* Fixed the src to a placeholder image since Pinterest links don't work as direct sources */}
           <img
-            src="https://getbootstrap.com/docs/5.3/examples/heroes/bootstrap-themes.png"
+            src="https://tse2.mm.bing.net/th/id/OIP.zKQF54PVP6q6pUz0GjzngwHaEK?rs=1&pid=ImgDetMain&o=7&rm=3"
             className="d-block mx-lg-auto img-fluid"
             alt="Bootstrap Themes"
             width="700"
